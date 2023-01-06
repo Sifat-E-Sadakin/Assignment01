@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    font-family: 'Work Sans';
+}
+.s1{
+    background-image: url(../images/banner/banner3.png);
+    font-family: 'Work Sans';
+    text-align: right;
+    padding-top: 310px;
+    padding-left: 700px;
+    padding-right: 200px;
+    padding-bottom: 310px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#borolekha{
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+#chotolekha{
+    color: whitesmoke;
+    font-family: 'Work Sans';
+    /* font-size: 20px; */
+    padding-bottom: 30px;
+}
+.btn{
+    width: 121px;
+    height: 61px;
+    left: 226px;
+    top: 51px;
+    background: whitesmoke;
+    border: 0px;
+    border-radius: 5px;
+    color: #005FAC;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+.borolekha{
+    color:black;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+.d1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.d2{
+    padding-top: 250px;
+   
+}
+.d3{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding-bottom: 100px;
+}
+.s3{
+    text-align: center;
+    padding-top: 100px;
+}
+#watch{
+    padding-top: 100px;
+}
+.s4{
+    background-image: url(../images/watch.png),url(../images/gradient1.png);
+    background-blend-mode: multiply;
+    background-size: cover;
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 70px;
+    color: whitesmoke;
+}
+#s4erh1{
+    padding-top: 100px;
+    padding-left: 100px;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+#call{
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    ;
+}
+#footerericon{
+    display: flex;
+    padding-bottom: 100px;
+    gap: 10px;
+}
+.footer{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+
+    background-color: black;
+    color: whitesmoke;
+}
+input{
+    background-color: black;
+    border-color: whitesmoke;
+    padding: 20px;
+    padding-right: 50px;
+    border-style: groove;
+}
+.btn_c{
+    width: 121px;
+    height: 61px;
+    left: 226px;
+    top: 51px;
+    background: #005FAC;
+    border: 0px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+}
+.d20{
+    padding-top: 70px;
+}
+.s2{
+    padding-top: 50px;
+}
+.d21{
+    padding-bottom: 20px;
+}
+#sub{
+    padding-top: 10px;
+}
